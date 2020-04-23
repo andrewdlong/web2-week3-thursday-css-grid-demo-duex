@@ -9,14 +9,6 @@
 	],
 "creatorBuild": "32001",
 "files": {
-	"/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.gitignore",
-		"oF": 0
-		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -26,6 +18,102 @@
 		"oAP": "/deploy/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/deploy/img/footer/facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/deploy/img/footer/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/deploy/img/footer/instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/deploy/img/footer/instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/deploy/img/footer/twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/deploy/img/footer/twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/deploy/img/section-2/hero.jpg": {
+		"ft": 16384,
+		"iS": 180023,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-2/hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-3/robot.jpg": {
+		"ft": 16384,
+		"iS": 105167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/robot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-4/robot_with_blocks.jpg": {
+		"ft": 16384,
+		"iS": 112816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/robot_with_blocks.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/robot_reading.jpg": {
+		"ft": 16384,
+		"iS": 39120,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/robot_reading.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/robot_reading_with_speakers.jpg": {
+		"ft": 16384,
+		"iS": 35331,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/robot_reading_with_speakers.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/robot_with_boy.jpg": {
+		"ft": 16384,
+		"iS": 61293,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/robot_with_boy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"/deploy/index.html": {
 		"cB": 1,
@@ -45,6 +133,30 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/dev/footer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/footer.html",
+		"oF": 0
+		},
+	"/dev/header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/header.html",
+		"oF": 0
+		},
+	"/dev/header.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/header.html",
+		"oF": 0
 		},
 	"/dev/index.kit": {
 		"cB": 1,
@@ -247,6 +359,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/dev/scss/sections/_section-5.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-5.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -290,6 +415,14 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/section-4.html",
+		"oF": 0
+		},
+	"/dev/section-5.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/section-5.html",
 		"oF": 0
 		},
 	"/README.md": {
